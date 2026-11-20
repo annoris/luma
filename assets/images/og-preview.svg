@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="LUMA Botanical Soda — Open Your Sunny Side">
+  <rect width="1200" height="630" fill="#c9ff49"/>
+  <rect x="44" y="44" width="1112" height="542" rx="36" fill="none" stroke="#173d1a" stroke-width="5"/>
+  <g transform="translate(600 135) rotate(-5)">
+    <rect x="-150" y="-42" width="300" height="84" rx="42" fill="#173d1a"/>
+    <text x="0" y="14" text-anchor="middle" font-family="Arial Narrow, Impact, sans-serif" font-weight="900" font-size="44" letter-spacing="4" fill="#c9ff49">LUMA®</text>
+  </g>
+  <text x="600" y="345" text-anchor="middle" font-family="Arial Narrow, Impact, sans-serif" font-weight="900" font-size="136" letter-spacing="-4" fill="#173d1a">LIGHT UP YOUR DAY</text>
+  <text x="600" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="30" letter-spacing="3" fill="#173d1a">BOTANICAL SODA · INTERACTIVE WEB EXPERIENCE</text>
+  <g transform="translate(600 515)">
+    <rect x="-255" y="-28" width="510" height="56" rx="28" fill="#ffc2dc" stroke="#173d1a" stroke-width="3"/>
+    <text x="0" y="9" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="22" letter-spacing="2" fill="#173d1a">LIME &amp; LEMON · WILD BERRIES · MINT &amp; CUCUMBER</text>
+  </g>
+</svg>
