@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 480" fill="none">
+  <title>Hoja botánica LUMA</title>
+  <defs><linearGradient id="leaf" x1="36" y1="280" x2="237" y2="114" gradientUnits="userSpaceOnUse"><stop stop-color="#183b20"/><stop offset=".52" stop-color="#4e742d"/><stop offset="1" stop-color="#91aa4a"/></linearGradient></defs>
+  <path d="M137 428C41 367 14 282 35 203 57 119 152 55 235 20c30 96 33 204-8 285-20 40-51 82-90 123Z" fill="url(#leaf)"/>
+  <path d="M126 469c4-103 41-254 109-449" stroke="#9ba95a" stroke-width="6" stroke-linecap="round"/>
+  <g stroke="#a3b464" stroke-width="2" opacity=".65"><path d="m137 414-81-93m90 50-104-99m117 53-119-99m134 54-116-97m133 49-102-91m121 39-91-77m107 26-63-52m-26 267 72-39m-59-8 83-48m-71 2 93-54m-76 7 86-50m-68 1 74-45m-57-2 58-40"/></g>
+</svg>

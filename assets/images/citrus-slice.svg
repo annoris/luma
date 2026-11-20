@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <title>Rodaja de lima LUMA</title>
+  <defs><radialGradient id="f"><stop stop-color="#f5ffa4"/><stop offset="1" stop-color="#d9ef57"/></radialGradient><filter id="grain"><feTurbulence baseFrequency=".16" numOctaves="3" seed="8" result="noise"/><feComposite in="noise" in2="SourceGraphic" operator="in"/><feBlend in="SourceGraphic" mode="multiply"/></filter></defs>
+  <g filter="url(#grain)"><path d="M199 12C302 8 383 94 387 195s-78 190-183 193S15 307 12 206 96 16 199 12Z" fill="#678927"/><path d="M202 26c92 0 171 76 172 170S298 373 202 374 27 300 26 204 107 26 202 26Z" fill="#ecf2b8"/><circle cx="200" cy="200" r="157" fill="url(#f)"/>
+  <g fill="#b3d640" stroke="#f3f7bf" stroke-width="7" stroke-linejoin="round"><path d="m195 185-99-99c27-25 60-38 99-40Z"/><path d="m212 184 1-137c38 3 73 20 97 46Z"/><path d="m219 198 102-93c25 29 38 60 37 98Z"/><path d="m219 213 138 7c-5 39-22 69-49 92Z"/><path d="m204 219 89 104c-29 23-63 34-100 32Z"/><path d="m189 217-11 137c-37-5-69-22-92-50Z"/><path d="m182 203-108 88c-23-30-33-62-30-98Z"/><path d="m183 188-137-11c6-36 20-64 44-88Z"/></g><circle cx="200" cy="201" r="15" fill="#f5f7c9"/>
+  <g stroke="#e4f085" stroke-width="2" opacity=".7"><path d="m180 79 9 76m-64-49 56 61m46-93-12 86m70-51-58 62m101-27-89 43m100 57-99-24m45 82-61-70m11 106-12-102m-49 97 24-96m-97 54 76-65m-104 3 105-14m-87-50 84 40"/></g></g>
+</svg>
