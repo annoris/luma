@@ -87,4 +87,4 @@ All contributors and participants are expected to follow our [Code of Conduct](C
 
 ## Support & Licensing
 
-LUMA Botanical Soda is released under the **MIT License** (see [LICENSE](LICENSE) and [LICENSING_AND_PAYMENTS.md](LICENSING_AND_PAYMENTS.md)). If you love the project, consider starring the repo or supporting development via the GitHub **Sponsor** button!
+LUMA Botanical Soda is released under a **Proprietary / All Rights Reserved License** (see [LICENSE](LICENSE)). If you love the project, consider starring the repo or supporting development via the GitHub **Sponsor** button!

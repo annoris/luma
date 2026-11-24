@@ -5,22 +5,21 @@
 # LUMA — Botanical Soda Web Experience
 
 **Zero dependencies. Zero build step. Zero audio files.**  
-Pure HTML5, CSS3, and Vanilla JS — featuring a **106 BPM procedural Web Audio soundtrack**, **pure CSS soda can art**, **magnetic kinetic typography**, and **Solana Pay** (MIT).
+Pure HTML5, CSS3, and Vanilla JS — featuring a **106 BPM procedural Web Audio soundtrack**, **pure CSS soda can art**, **magnetic kinetic typography**, and **Solana Pay**.
 
 <p align="center">
   <a href="https://annoris.github.io/luma/"><img src="https://img.shields.io/badge/LIVE_DEMO-annoris.github.io%2Fluma-c9ff49?style=for-the-badge&logo=githubpages&logoColor=111111&labelColor=111111" alt="Live Demo" /></a>
   <a href="https://github.com/annoris/luma/stargazers"><img src="https://img.shields.io/github/stars/annoris/luma?style=for-the-badge&logo=github&color=ff85b3&labelColor=111111" alt="GitHub Stars" /></a>
-  <a href="SOURCE_ACCESS.md"><img src="https://img.shields.io/badge/Source_Vault-Solana_Unlock-14F195?style=for-the-badge&logo=solana&logoColor=111111&labelColor=111111" alt="Solana Source Unlock" /></a>
+  <a href="SPONSORS.md"><img src="https://img.shields.io/badge/Sponsor-Solana-14F195?style=for-the-badge&logo=solana&logoColor=111111&labelColor=111111" alt="Sponsor via Solana" /></a>
   <img src="https://img.shields.io/badge/Dependencies-0-c9ff49?style=for-the-badge&labelColor=111111" alt="Zero Dependencies" />
   <img src="https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20Vanilla%20JS-ff85b3?style=for-the-badge&labelColor=111111" alt="HTML5 CSS3 Vanilla JS" />
   <img src="https://img.shields.io/badge/Web%20Audio%20API-106%20BPM%20Synth-69d2ff?style=for-the-badge&labelColor=111111" alt="Web Audio API 106 BPM" />
-  <a href="PAYMENT.md"><img src="https://img.shields.io/badge/Solana%20Pay-SOL%20%26%20USDC-9945FF?style=for-the-badge&labelColor=111111" alt="Solana Pay SOL and USDC" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Solana_Sponsorware-c9ff49?style=for-the-badge&labelColor=111111" alt="License" /></a>
+  <a href="SPONSORS.md"><img src="https://img.shields.io/badge/Solana%20Pay-SOL%20%26%20USDC-9945FF?style=for-the-badge&labelColor=111111" alt="Solana Pay SOL and USDC" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Proprietary_%2F_All_Rights_Reserved-c9ff49?style=for-the-badge&labelColor=111111" alt="License: Proprietary / All Rights Reserved" /></a>
 </p>
 
 <p align="center">
   <a href="https://annoris.github.io/luma/"><strong>🚀 Launch Live Demo</strong></a> &nbsp;&middot;&nbsp;
-  <a href="SOURCE_ACCESS.md"><strong>🔓 Unlock Source Vault (<code>annoris/luma-pro-source</code>)</strong></a> &nbsp;&middot;&nbsp;
   <a href="#visual-tour"><strong>Visual Tour</strong></a> &nbsp;&middot;&nbsp;
   <a href="#brand-assets"><strong>Brand Assets</strong></a> &nbsp;&middot;&nbsp;
   <a href="#features"><strong>Features</strong></a> &nbsp;&middot;&nbsp;
@@ -191,8 +190,8 @@ flowchart LR
 luma/
 ├── index.html                        # Semantic HTML5 entry point, OpenGraph meta, & all 5 sections
 ├── package.json                      # Zero dependencies; Node >=18 scripts (start, check) & Solana funding
-├── LICENSE                           # MIT License (Copyright (c) 2026 LUMA Studio)
-├── LICENSING_AND_PAYMENTS.md         # Commercial licensing, custom brand services, & Solana Pay guide
+├── LICENSE                           # Proprietary / All Rights Reserved (Copyright (c) 2026 LUMA Studio)
+├── SPONSORS.md                       # Hall of Patrons & Solana sponsorship guide
 ├── CONTRIBUTING.md                   # Contribution workflow & standards
 ├── CODE_OF_CONDUCT.md                # Community Code of Conduct
 ├── assets/
@@ -237,21 +236,17 @@ luma/
 ## Quick Start & Deployment
 
 > [!IMPORTANT]
-> **Solana-Gated Sponsorware Architecture (`annoris/luma-pro-source`):**
+> **Proprietary Source Code — All Rights Reserved:**
 > - **Live Flagship Showcase:** Anyone can experience the live 60fps production site & 106 BPM Web Audio synthesizer at **[https://annoris.github.io/luma/](https://annoris.github.io/luma/)** and inspect all 6 high-resolution section screenshots (`docs/screenshots/`) and 5 bespoke SVG illustrations (`assets/images/`) right here in this public showcase repository.
-> - **Full Editable Source Code Vault:** The complete, unminified, editable source code (`index.html`, `assets/js/animations.js`, `assets/js/soundtrack.js`, `assets/js/app.js`, `assets/css/*.css`, and `scripts/*.mjs`) is hosted inside the **Private Source Vault (`annoris/luma-pro-source`)** and unlocked immediately upon contributing via **Solana Mainnet (`3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm`)** and submitting a **[🔓 Solana Source Code Unlock Request](https://github.com/annoris/luma/issues/new?template=source_unlock_request.md)**. See [`SOURCE_ACCESS.md`](./SOURCE_ACCESS.md) and [`PAYMENT.md`](./PAYMENT.md) for instant unlock instructions.
+> - **Proprietary Source Code:** The underlying application source code (`index.html`, `assets/js/`, `assets/css/`, and `scripts/`) is proprietary software (`All Rights Reserved`). Commercial licensing and private deployment access are available exclusively through a direct written agreement with the author. See [`LICENSE`](./LICENSE) for full terms.
 
 ### Prerequisites
 - **Node.js `>= 18`** (only needed for the built-in dev server and validator — no `npm install` required).
 
-### Run Locally (After Solana Vault Unlock)
+### Run Locally (Authorized Source Access)
 
 ```bash
-# 1. Clone the private source vault
-git clone https://github.com/annoris/luma-pro-source.git
-cd luma-pro-source
-
-# 2. Start the zero-dependency local server (http://127.0.0.1:4173)
+# Start the zero-dependency local server (http://127.0.0.1:4173)
 npm start
 
 # Optional: run on a custom port
@@ -271,10 +266,10 @@ Verifies that all HTML IDs are unique, every local `src`/`href` asset and intern
 <a id="licensing--solana-pay"></a>
 ## Licensing & Solana Payments
 
-### Solana-Gated Sponsorware & Commercial License
-This project is distributed under the [**Commercial & Sponsorware Source-Gated License (On-Chain Solana Treasury Edition)**](LICENSE) (`Copyright (c) 2026 LUMA Studio`). Full unlock instructions, commercial agency tiers, and verification steps are documented in [**`SOURCE_ACCESS.md`**](SOURCE_ACCESS.md), [**`PAYMENT.md`**](PAYMENT.md), [**`SPONSORS.md`**](SPONSORS.md), and [**`LICENSING_AND_PAYMENTS.md`**](LICENSING_AND_PAYMENTS.md).
+### Proprietary License — All Rights Reserved
+This project is distributed under the [**Proprietary / All Rights Reserved License**](LICENSE) (`Copyright (c) 2026 LUMA Studio`). Commercial use and source code licensing are available exclusively through a direct written agreement with the author. See [**`SPONSORS.md`**](SPONSORS.md) for voluntary sponsorship details.
 
-### Scan to Pay with Any Solana Wallet (`SOL`)
+### Scan to Sponsor with Any Solana Wallet (`SOL`)
 
 <div align="center">
 
@@ -289,7 +284,7 @@ This project is distributed under the [**Commercial & Sponsorware Source-Gated L
 ```
 
 <p>
-  <strong>1-Step Payment:</strong> Scan the QR code above with Phantom, Solflare, Backpack, Coinbase, Binance, or Trust Wallet (or copy the Solana address above) to send <strong>SOL</strong> directly.
+  <strong>1-Step Sponsorship:</strong> Scan the QR code above with Phantom, Solflare, Backpack, Coinbase, Binance, or Trust Wallet (or copy the Solana address above) to send <strong>SOL</strong> directly.
 </p>
 
 </div>
@@ -299,7 +294,7 @@ This project is distributed under the [**Commercial & Sponsorware Source-Gated L
 | **Network** | **Solana Mainnet-Beta** (`SOL` & `USDC` SPL) |
 | **Wallet Address** | `3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm` |
 | **Block Explorer** | [View on Solscan](https://solscan.io/account/3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm) |
-| **Unlock Request** | [Submit Solscan TxHash to Unlock `annoris/luma-pro-source`](https://github.com/annoris/luma/issues/new?template=source_unlock_request.md) |
+| **License** | [Proprietary / All Rights Reserved](LICENSE) |
 
 > **Network Notice:** Send **SOL** or **SPL USDC** strictly on the **Solana Mainnet** network. Do not send assets over Ethereum (ERC-20), Polygon, Arbitrum, Base, or BNB Smart Chain.
 
@@ -315,7 +310,7 @@ Love zero-dependency creative coding? Help LUMA reach more builders and designer
 - **Contribute:** Check out [**`CONTRIBUTING.md`**](CONTRIBUTING.md) and our [**`CODE_OF_CONDUCT.md`**](CODE_OF_CONDUCT.md) before opening a PR or issue.
 
 <p align="center">
-  <a href="https://twitter.com/intent/tweet?text=Zero%20dependencies.%20Zero%20build%20step.%20Zero%20audio%20files.%20Check%20out%20LUMA%20Botanical%20Soda%20%E2%80%94%20pure%20HTML5%2C%20CSS3%2C%20Vanilla%20JS%2C%20a%20106%20BPM%20Web%20Audio%20synth%2C%20pure%20CSS%20soda%20can%20art%2C%20and%20Solana%20Pay%20(MIT)%20%E2%9C%B3%EF%B8%8F">
+  <a href="https://twitter.com/intent/tweet?text=Zero%20dependencies.%20Zero%20build%20step.%20Zero%20audio%20files.%20Check%20out%20LUMA%20Botanical%20Soda%20%E2%80%94%20pure%20HTML5%2C%20CSS3%2C%20Vanilla%20JS%2C%20a%20106%20BPM%20Web%20Audio%20synth%2C%20pure%20CSS%20soda%20can%20art%2C%20and%20Solana%20Pay%20%E2%9C%B3%EF%B8%8F">
     <img src="https://img.shields.io/badge/Share%20on%20X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Share LUMA on X / Twitter" />
   </a>
 </p>
@@ -323,5 +318,5 @@ Love zero-dependency creative coding? Help LUMA reach more builders and designer
 ---
 
 <div align="center">
-  <sub>Made with sunshine, botanical bubbles, and zero dependencies by <strong>LUMA Studio</strong> · Licensed under <a href="LICENSE">MIT</a></sub>
+  <sub>Made with sunshine, botanical bubbles, and zero dependencies by <strong>LUMA Studio</strong> · <a href="LICENSE">Proprietary / All Rights Reserved</a></sub>
 </div>

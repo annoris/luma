@@ -1,4 +1,4 @@
-Commercial & Sponsorware Source-Gated License (On-Chain Solana Treasury Edition)
+Proprietary License — All Rights Reserved
 
 Copyright (c) 2026 LUMA Studio. All rights reserved.
 
@@ -19,43 +19,30 @@ subject to the following conditions:
    https://annoris.github.io/luma/
 
 ================================================================================
-PART II — SOLANA-GATED SPONSORWARE SOURCE VAULT (`annoris/luma-pro-source`)
+PART II — PROPRIETARY SOURCE CODE (ALL RIGHTS RESERVED)
 ================================================================================
 
-1. Source Code Protection & Private Engineering Vault:
-   The complete, unminified, editable source code (`index.html`, `assets/js/`,
-   `assets/css/`, and `scripts/`) is protected under a Commercial & Sponsorware
-   Source-Gated License and hosted in the private repository:
-   https://github.com/annoris/luma-pro-source
+1. Exclusive Ownership:
+   All underlying application source code, scripts, stylesheets, procedural audio
+   synthesizers, animations, and proprietary software components of LUMA Studio
+   are the exclusive intellectual property of the copyright holder. All rights
+   not expressly granted in Part I are strictly reserved.
 
-2. On-Chain Solana Unlock & Commercial Licensing Tiers:
-   Developers, creative studios, and commercial enterprises may unlock direct
-   GitHub collaborator access to `annoris/luma-pro-source` and acquire
-   commercial white-label deployment rights by contributing via the Solana
-   Mainnet-Beta network (SOL or USDC-SPL) to the official treasury wallet:
+2. Prohibited Uses:
+   Without prior express written authorization from the copyright holder, you
+   may NOT:
+   - Copy, reproduce, distribute, sublicense, sell, lease, or publish the
+     software or any portion of its proprietary source code;
+   - Decompile, disassemble, reverse engineer, scrape, mirror, or attempt to
+     reconstruct or extract the underlying source code or assets from the live
+     interactive demo or hosted builds;
+   - Use the software, source code, or derivative works for commercial
+     deployments, client delivery, white-label products, or SaaS offerings.
 
-   Official Solana Treasury & Sponsorship Wallet:
-   3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm
-
-   - Individual Developer Unlock ($75 USD equiv. in SOL / USDC):
-     1 GitHub seat invitation to `annoris/luma-pro-source` with full clone
-     access for personal, educational, and portfolio projects.
-   - Studio / Agency License ($450 USD equiv. in SOL / USDC):
-     Up to 3 GitHub team seats in `annoris/luma-pro-source` + commercial
-     white-label deployment rights for up to 5 client domains without public
-     attribution requirements.
-   - Enterprise / Brand Flagship License ($1,500 USD equiv. in SOL / USDC):
-     Unlimited team seats + unlimited commercial deployments, proprietary
-     closed-source redistribution rights, and 90-day priority engineering SLA.
-
-3. Instant Verification & Repository Access Activation:
-   After sending your contribution to `3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm`,
-   submit your Solscan Transaction Signature (TxHash) and GitHub username via
-   the "🔓 Solana Source Code Unlock Request" issue template at:
-   https://github.com/annoris/luma/issues/new?template=source_unlock_request.md
-
-   See `SOURCE_ACCESS.md`, `PAYMENT.md`, `LICENSING_AND_PAYMENTS.md`, and
-   `SPONSORS.md` for complete tier specifications and verification instructions.
+3. Commercial Licensing:
+   Commercial use, studio/agency deployments, and source code licensing are
+   available exclusively through a direct written licensing agreement with the
+   author.
 
 THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
 KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
